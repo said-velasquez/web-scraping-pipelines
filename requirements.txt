@@ -1,0 +1,9 @@
+pandas
+selenium>=4.6
+requests
+beautifulsoup4
+transformers
+torch
+matplotlib
+seaborn
+jupyter
