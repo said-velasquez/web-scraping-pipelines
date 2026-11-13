@@ -15,6 +15,7 @@ Two scraping projects in Python: a Selenium bot that browses the Steam store and
 - Moves the price slider to show only games under €5, using JavaScript events and `ActionChains`.
 - Extracts the title, rating, price, original price, discount and link of each game with XPath into a pandas DataFrame.
 - Groups the games into discount ranges and charts the distribution with Seaborn.
+- In the saved run it collected 50 games under €5. 47 were on sale, with a median discount of 80% (median original price €19.50).
 
 ## 2. Spanish news headline sentiment
 
